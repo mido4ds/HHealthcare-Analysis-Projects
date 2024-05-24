@@ -1,4 +1,4 @@
-# HHealthcare-Analysis-Projects
+# Healthcare-Analysis-Projects
 
 Skills: 
 
